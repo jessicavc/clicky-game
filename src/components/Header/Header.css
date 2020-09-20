@@ -4,6 +4,10 @@
     font-weight: 800;
     color: #3b18da;
     margin-bottom: 40px;
+    border-style: groove;
+    border: round;
+    
+
   }
   
   .title {
