@@ -1,5 +1,5 @@
 import React from "react";
-
+import "./Card.css";
 
 const Card = props => (
     <div className="card" onClick={() => props.count(props.id)}>
